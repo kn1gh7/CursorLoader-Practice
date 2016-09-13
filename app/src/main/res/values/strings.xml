@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CursorLoaderPractice</string>
+
+    <string name="category_author">Artist</string>
+    <string name="category_genre">Genre</string>
+    <string name="category_allsong">All Songs</string>
+
+    <string-array name="categories">
+        <item>@string/category_author</item>
+        <item>@string/category_genre</item>
+        <item>@string/category_allsong</item>
+        <item>@string/category_author</item>
+        <item>@string/category_genre</item>
+        <item>@string/category_allsong</item>
+        <item>@string/category_author</item>
+        <item>@string/category_genre</item>
+        <item>@string/category_allsong</item>
+    </string-array>
+</resources>
