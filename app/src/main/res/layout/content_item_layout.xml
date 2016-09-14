@@ -4,14 +4,14 @@
     android:layout_height="wrap_content">
 
     <ImageView
-        android:id="@+id/image"
+        android:id="@+id/imgview"
         android:layout_width="50dp"
         android:layout_height="50dp"/>
 
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_toRightOf="@id/image"
+        android:layout_toRightOf="@id/imgview"
         android:orientation="vertical">
 
         <TextView
